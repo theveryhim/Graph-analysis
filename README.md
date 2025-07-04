@@ -30,6 +30,7 @@ Node 48: Hub = 0.17918427547367194, Authority = 0.321584176099179
 <p align="center">
     <img src="2.png" alt="Descriptive Alt Text" class="fit-width-image">
 </p>
+
 ```markdown
 Pixie Similarity Results (based on random walks starting from 'Armanjasoor'):
 User: adam_hesabi, Visits: 19
@@ -41,6 +42,7 @@ Pixie Similarity Results (based on random walks starting from 'Armanjasoor'):
 ...
 ```
 - Using the TrustRank algorithm and calculating Spam Mass, design and implement an algorithm that can detect spam tweets.
+
 ```markdown
 +--------------------+------------------+
 |                text|        spam_value|
