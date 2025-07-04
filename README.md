@@ -24,7 +24,7 @@ Node 36: Hub = 0.4725510985034841, Authority = 0.5267444326313117
 Node 48: Hub = 0.17918427547367194, Authority = 0.321584176099179
 ...
 ```
-## Pixie-TrustRank
+## Pixie-TrustRank: Persian tweeter data set(*dataset*)
 - Both task description and implementation can be found at *Task2*
 - Using the Pixie algorithm,create a graph of users and their interactions.
 <p align="center">
